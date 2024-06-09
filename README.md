@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grvexe
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 
